@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Input Leap
+Comment=Connect Raspberry Pi to Input Leap server
+Exec=/home/jer/bin/start-input-leap.sh
+Icon=input-keyboard
+Terminal=true
+Categories=Utility;
